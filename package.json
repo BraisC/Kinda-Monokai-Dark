@@ -23,5 +23,6 @@
         "type": "git",
         "url": "https://github.com/BraisC/Kinda-Monokai-Dark.git"
     },
-    "icon": "icon.png"
+    "icon": "icon.png",
+    "dependencies": {}
 }
