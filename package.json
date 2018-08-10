@@ -1,0 +1,22 @@
+{
+    "name": "kinda-monokai-dark",
+    "displayName": "Kinda Monokai Dark",
+    "description": "A custom theme based on Monokai Dark",
+    "version": "0.0.1",
+    "publisher": "BraisC",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kinda Monokai Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kinda Monokai Dark-color-theme.json"
+            }
+        ]
+    }
+}
