@@ -1,13 +1,11 @@
-# README
-## This is the README for your extension "kinda-monokai-dark"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+### Kinda Monokai Dark
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+A [VS Code][1] theme __HEAVILY__ based on [Monokai][2] by [Wimer Hazenberg][3].
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Kinda Monokai Dark is a tweaked version of [Monokai][2], changed to a darker background with a few color changes and tweaks for CSS, PHP and Javascript
 
-**Enjoy!**
+__Note__: this theme was tested only in Microsoft VS Code
+
+[1]: https://code.visualstudio.com/
+[2]: http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/
+[3]: http://monokai.nl/
