@@ -104,7 +104,7 @@
 			"scope": "entity.name.tag",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#F92672"
+				"foreground": "#F91672"
 			}
 		},
 		{
@@ -120,7 +120,7 @@
 			"scope": "support.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#66D9EF"
+				"foreground": "#66d9EF"
 			}
 		},
 		{
@@ -128,18 +128,18 @@
 			"scope": "support.constant",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#66D9EF"
+				"foreground": "#1ae177"
 			}
 		},
 		{
 			"name": "Library class/type",
 			"scope": [
-				"support.type",
+				//"support.type",
 				"support.class"
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#66D9EF"
+				"foreground": "#1ae177"
 			}
 		},
 		{
@@ -455,14 +455,14 @@
 			"name": "Function Call Variable",
 			"scope": "variable.other.property",
 			"settings": {
-				"foreground": "#c891ff"
+				"foreground": "#cc99ff"
 			}
 		},
 		{
 			"name": "Support Variable Property DOM",
 			"scope": "support.variable.property.dom",
 			"settings": {
-				"foreground": "#B7AFFF",
+				"foreground": "#ebe3fc", //#afb7ff
 				"fontStyle": ""
 			}
 		},
@@ -470,7 +470,7 @@
 			"name": "Variable",
 			"scope": "variable",
 			"settings": {
-				"foreground": "#d7d2ff"
+				"foreground": "#ffffff" //#e3d5fd
 			}
 		},
 		{
@@ -485,7 +485,7 @@
 			"name": "VariableJS",
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "#ff17c6",
+				"foreground": "#ff8fdd",
 				"fontStyle": "italic"
 			}
 		},
@@ -497,17 +497,20 @@
 			}
 		},
 		{
-			"name": "Meta",
-			"scope": "meta",
+			"name": "[JS] Meta",
+			"scope": [
+				"source.js meta",
+				"source.ts meta"
+			],
 			"settings": {
-				"foreground": "#f1efff"
+				"foreground": "#afb7ff"
 			}
 		},
 		{
 			"name": "Support",
 			"scope": "support",
 			"settings": {
-				"foreground": "#F8F8F0",
+				"foreground": "#1ae177", //#e3d5fd
 				"fontStyle": "italic"
 			}
 		},
@@ -515,7 +518,31 @@
 			"name": "Support Function",
 			"scope": "support.function",
 			"settings": {
-				"foreground": "#1ae177"
+				"foreground": "#f92672" //#1ae177
+			}
+		},
+		{
+			"name": "[JSON] - Support",
+			"scope": "source.json support",
+			"settings": {
+				"foreground": "#66D9EF"
+			}
+		},
+		{
+			"name": "[CSS] - Support",
+			"scope": [
+				"source.css support",
+				"source.stylus support"
+			],
+			"settings": {
+				"foreground": "#66D9EF"
+			}
+		},
+		{
+			"name": "Punctuation",
+			"scope": "punctuation",
+			"settings": {
+				"foreground": "#e1efff"
 			}
 		}
 	],
