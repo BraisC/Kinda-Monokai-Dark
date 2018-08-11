@@ -1,5 +1,6 @@
 ## [v1.0.4]
 - Change compatibility version
+- Minor bugfixes
 
 ## [v1.0.3]
 - Added some screenshots
