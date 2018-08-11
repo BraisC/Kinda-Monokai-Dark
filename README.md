@@ -6,6 +6,12 @@ Kinda Monokai Dark is a tweaked version of [Monokai][2], changed to a darker bac
 
 __Note__: this theme was tested only in Microsoft VS Code
 
+# ScreenShot
+
+![ScreenShot](https://raw.githubusercontent.com/BraisC/Kinda-Monokai-Dark/master/static/screenshot.PNG)
+
+![ScreenShot](https://raw.githubusercontent.com/BraisC/Kinda-Monokai-Dark/master/static/screenshot2.PNG)
+
 [1]: https://code.visualstudio.com/
 [2]: http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/
 [3]: http://monokai.nl/
