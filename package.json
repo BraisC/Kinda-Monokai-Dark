@@ -5,7 +5,7 @@
     "version": "1.0.4",
     "publisher": "BraisC",
     "engines": {
-        "vscode": "^1.20.0"
+        "vscode": "^1.15.0"
     },
     "categories": [
         "Themes"
@@ -24,5 +24,9 @@
         "url": "https://github.com/BraisC/Kinda-Monokai-Dark.git"
     },
     "icon": "icon.png",
-    "dependencies": {}
+    "dependencies": {},
+     "galleryBanner": {
+         "color": "#30302e",
+         "theme": "dark"
+     }
 }
