@@ -462,7 +462,8 @@
 			"name": "Support Variable Property DOM",
 			"scope": "support.variable.property.dom",
 			"settings": {
-				"foreground": "#c891ff"
+				"foreground": "#B7AFFF",
+				"fontStyle": ""
 			}
 		},
 		{
