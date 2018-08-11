@@ -1,3 +1,6 @@
+## [v1.0.4]
+- Change compatibility version
+
 ## [v1.0.3]
 - Added some screenshots
 
