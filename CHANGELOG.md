@@ -1,4 +1,5 @@
-##Added Screenshots
+## [v1.0.3]
+- Added some screenshots
 
 ## [v1.0.2]
 - Now the opening chars of comments are the same color as the comment
