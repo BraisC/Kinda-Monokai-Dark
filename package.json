@@ -5,7 +5,7 @@
     "version": "1.0.3",
     "publisher": "BraisC",
     "engines": {
-        "vscode": "^1.25.0"
+        "vscode": "^1.20.0"
     },
     "categories": [
         "Themes"
