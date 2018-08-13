@@ -1,3 +1,9 @@
+## [v1.0.8]
+- Correct color on object constructor calls
+
+## [v1.0.7]
+- Correct color on opening string template quotes
+
 ## [v1.0.6]
 - Correct color on opening string quotes
 

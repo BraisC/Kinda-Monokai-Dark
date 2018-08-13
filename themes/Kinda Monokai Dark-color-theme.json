@@ -66,7 +66,7 @@
 		},
 		{
 			"name": "Class name",
-			"scope": "entity.name.class",
+			"scope": "entity.name.class, entity.name.type",
 			"settings": {
 				"fontStyle": "underline",
 				"foreground": "#A6E22E"
@@ -482,6 +482,16 @@
 			"scope": "punctuation.definition.template-expression",
 			"settings": {
 				"foreground": "#d7d2ff"
+			}
+		},
+		{
+			"name": "String Template",
+			"scope": [
+				"string.template",
+				"punctuation.definition.string.template"
+			],
+			"settings": {
+				"foreground": "#FFEE99"
 			}
 		},
 		{
