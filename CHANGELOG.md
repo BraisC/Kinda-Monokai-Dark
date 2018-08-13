@@ -1,5 +1,6 @@
 ## [v1.0.9]
 - More colors tweaked
+- Keywords in italic
 
 ## [v1.0.8]
 - Correct color on object constructor calls

@@ -45,6 +45,7 @@
 			"name": "Keyword",
 			"scope": "keyword",
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#F92672"
 			}
 		},
