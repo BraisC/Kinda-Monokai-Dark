@@ -532,7 +532,14 @@
 			"settings": {
 				"foreground": "#e1efff"
 			}
-		}
+		},
+		{
+			"name": "[HTML] - Quotes. these are a slightly different colour because expand selection will then not include quotes",
+			"scope": "punctuation.definition.string.begin, punctuation.definition.string.end",
+			"settings": {
+				"foreground": "#FFEE99"
+			}
+		},
 	],
 	"colors": {
 		"editor.background": "#242424",

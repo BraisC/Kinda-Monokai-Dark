@@ -1,3 +1,6 @@
+## [v1.0.6]
+- Correct color on opening string quotes
+
 ## [v1.0.5]
 - Minor bugfixes
 
