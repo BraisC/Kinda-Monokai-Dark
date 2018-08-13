@@ -1,3 +1,6 @@
+## [v1.0.9]
+- More colors tweaked
+
 ## [v1.0.8]
 - Correct color on object constructor calls
 

@@ -450,7 +450,7 @@
 			"name": "Support Variable Property DOM",
 			"scope": "support.variable.property.dom",
 			"settings": {
-				"foreground": "#ebe3fc", //#afb7ff
+				"foreground": "#cc99ff", //#afb7ff
 				"fontStyle": ""
 			}
 		},
