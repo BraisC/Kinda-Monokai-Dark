@@ -501,7 +501,7 @@
 				"source.ts meta"
 			],
 			"settings": {
-				"foreground": "#afb7ff"
+				"foreground": "#d7d2ff" //"#afb7ff"
 			}
 		},
 		{
