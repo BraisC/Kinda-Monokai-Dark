@@ -1,3 +1,8 @@
+## [v1.1.0]
+- New Screenshots
+- New description
+- Minor color tweaks
+
 ## [v1.0.9]
 - More colors tweaked
 - Keywords in italic

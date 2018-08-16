@@ -1,8 +1,8 @@
 {
     "name": "kinda-monokai-dark",
     "displayName": "Kinda Monokai Dark",
-    "description": "A custom theme based on Monokai Dark",
-    "version": "1.0.9",
+    "description": "A custom theme based on Monokai Dark with brighter colors",
+    "version": "1.1.0",
     "publisher": "BraisC",
     "engines": {
         "vscode": "^1.15.0"
