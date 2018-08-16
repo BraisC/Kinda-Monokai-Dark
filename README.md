@@ -1,4 +1,4 @@
-### Kinda Monokai Dark
+# Kinda Monokai Dark
 
 A [VS Code][1] theme based on Monokai by [Wimer Hazenberg][3].
 
@@ -8,19 +8,19 @@ I recommend to use it in conjunction with [Bracket Pair Colorizer][4] for best r
 
 ## ScreenShots
 
-#Javascript
+### Javascript
 
 ![ScreenShot](https://raw.githubusercontent.com/BraisC/Kinda-Monokai-Dark/master/static/screenshot.PNG)
 
-#PHP
+### PHP
 
 ![ScreenShot](https://raw.githubusercontent.com/BraisC/Kinda-Monokai-Dark/master/static/screenshot2.PNG)
 
-#HTML
+### HTML
 
 ![ScreenShot](https://raw.githubusercontent.com/BraisC/Kinda-Monokai-Dark/master/static/screenshot3.PNG)
 
-##License
+## License
 
 This theme is licensed under the MIT License.
 
