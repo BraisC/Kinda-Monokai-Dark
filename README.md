@@ -14,11 +14,11 @@ I recommend to use it in conjunction with [Bracket Pair Colorizer][4] for best r
 
 ### PHP
 
-![ScreenShot](https://raw.githubusercontent.com/BraisC/Kinda-Monokai-Dark/master/static/screenshot2.PNG)
+![ScreenShot](https://raw.githubusercontent.com/BraisC/Kinda-Monokai-Dark/master/static/screenshot3.PNG)
 
 ### HTML
 
-![ScreenShot](https://raw.githubusercontent.com/BraisC/Kinda-Monokai-Dark/master/static/screenshot3.PNG)
+![ScreenShot](https://raw.githubusercontent.com/BraisC/Kinda-Monokai-Dark/master/static/screenshot2.PNG)
 
 ## License
 
