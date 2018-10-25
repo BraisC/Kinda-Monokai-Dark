@@ -1,3 +1,9 @@
+## [v1.1.2]
+- Color for CSS variables
+
+## [v1.1.1]
+- Minor color tweaks
+
 ## [v1.1.0]
 - New Screenshots
 - New description
