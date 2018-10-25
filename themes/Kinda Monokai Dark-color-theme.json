@@ -528,6 +528,16 @@
 			}
 		},
 		{
+			"name": "[CSS] - Variable",
+			"scope": [
+			  "source.css variable",
+			  "source.stylus variable"
+			],
+			"settings": {
+			  "foreground": "#FD971F"
+			}
+		  },
+		{
 			"name": "[CSS] - Support",
 			"scope": [
 				"source.css support",
