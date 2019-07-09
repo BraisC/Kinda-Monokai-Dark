@@ -1,32 +1,32 @@
 {
-    "name": "kinda-monokai-dark",
-    "displayName": "Kinda Monokai Dark",
-    "description": "A custom theme based on Monokai Dark with brighter colors",
-    "version": "1.1.2",
-    "publisher": "BraisC",
-    "engines": {
-        "vscode": "^1.15.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Kinda Monokai Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Kinda Monokai Dark-color-theme.json"
-            }
-        ]
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/BraisC/Kinda-Monokai-Dark.git"
-    },
-    "icon": "icon.png",
-    "dependencies": {},
-     "galleryBanner": {
-         "color": "#30302e",
-         "theme": "dark"
-     }
+  "name": "kinda-monokai-dark",
+  "displayName": "Kinda Monokai Dark",
+  "description": "A custom theme based on Monokai Dark with brighter colors",
+  "version": "1.1.3",
+  "publisher": "BraisC",
+  "engines": {
+    "vscode": "^1.15.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kinda Monokai Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kinda Monokai Dark-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BraisC/Kinda-Monokai-Dark.git"
+  },
+  "icon": "icon.png",
+  "dependencies": {},
+  "galleryBanner": {
+    "color": "#30302e",
+    "theme": "dark"
+  }
 }
