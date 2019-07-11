@@ -1,3 +1,9 @@
+## [v1.1.4]
+- Adjusted colors for "peekview"
+
+## [v1.1.3]
+- Test
+
 ## [v1.1.2]
 - Color for CSS variables
 
