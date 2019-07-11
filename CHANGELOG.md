@@ -1,3 +1,6 @@
+## [v1.1.5]
+- Bugfix
+
 ## [v1.1.4]
 - Adjusted colors for "peekview"
 
