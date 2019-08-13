@@ -1,3 +1,6 @@
+## [v1.1.6]
+- Comments are now in italic
+
 ## [v1.1.5]
 - Bugfix
 

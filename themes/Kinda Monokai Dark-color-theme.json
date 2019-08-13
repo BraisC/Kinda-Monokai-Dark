@@ -33,6 +33,7 @@
       "name": "Comment",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#8C8C8C"
       }
     },
