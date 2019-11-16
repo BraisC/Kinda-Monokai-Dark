@@ -1,3 +1,6 @@
+## [v2.0.0]
+- Full new editor colors
+  
 ## [v1.1.6]
 - Comments are now in italic
 

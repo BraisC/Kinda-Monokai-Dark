@@ -2,16 +2,38 @@
   "name": "Kinda Monokai Dark",
   "type": "dark",
   "colors": {
-    "editor.background": "#242424",
+    //ACTIVITY BAR
+    "activityBar.background": "#0f0f0f",
+    "activityBarBadge.background": "#707070",
+    "button.background": "#838383",
+
+    //EDITOR
+    "editor.background": "#1f1f1f",
+    "editor.selectionBackground": "#6d6d6dab",
+    "editor.selectionHighlightBackground": "#3cff0056",
     "editorCursor.foreground": "#F8F8F0",
     "editor.foreground": "#F8F8F2",
     "editorWhitespace.foreground": "#3B3A32",
     "editor.lineHighlightBackground": "#3D3D3D55",
-    //"editor.selectionBackground": "#403d3d",
-    /* "editor.selectionHighlightBackground": "#3cff0056",
-    "editor.selectionBackground": "#0026ff",
-    "editorRuler.foreground": "#444444", */
-    // "peekView
+    "editorRuler.foreground": "#444444",
+    "editorWidget.background": "#3c3c3c",
+
+    "focusBorder": "#4b4b4b",
+
+    //LIST
+    "list.activeSelectionBackground": "#cecece5d",
+    "list.inactiveSelectionBackground": "#cecece42",
+    "list.hoverBackground": "#cecece25",
+    "list.focusBackground": "#cecece25",
+    "list.highlightForeground": "#fff",
+
+    "menu.background": "#111111",
+    "menu.selectionBackground": "#cecece31",
+    "minimap.selectionHighlight": "#9c823a",
+
+    "panel.background": "#262626",
+
+    //PEEKVIEW
     "peekView.border": "#cfcfcf",
     "peekViewEditor.background": "#1b1b1b",
     "peekViewEditor.matchHighlightBackground": "#3cff0056",
@@ -20,18 +42,33 @@
     "peekViewResult.fileForeground": "#aaa",
     "peekViewResult.lineForeground": "#fff",
     "peekViewResult.matchHighlightBackground": "#ffffff63",
-    //"peekViewResult.matchHighlightBackground": "#0d3a58",
-    //"peekViewResult.selectionBackground": "#0d3a58",
-    "peekViewResult.selectionBackground": "#0026ff",
+    "peekViewResult.selectionBackground": "#cecece5d",
     "peekViewResult.selectionForeground": "#fff",
     "peekViewTitle.background": "#202020",
     "peekViewTitleDescription.foreground": "#aaa",
-    "peekViewTitleLabel.foreground": "#ffffff"
+    "peekViewTitleLabel.foreground": "#ffffff",
+
+    "pickerGroup.foreground": "#fff",
+
+    "selection.background": "#cecece52",
+
+    "sideBar.background": "#161616",
+
+    "statusBarItem.remoteBackground": "#707070",
+    "statusBar.background": "#0f0f0f",
+    //TABS
+    "tab.activeModifiedBorder": "#fff",
+    "tab.activeBorder": "#6d6d6d",
+
+    "titleBar.activeBackground": "#111111"
   },
   "tokenColors": [
     {
       "name": "Comment",
-      "scope": ["comment", "punctuation.definition.comment"],
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#8C8C8C"
@@ -60,7 +97,10 @@
     },
     {
       "name": "User-defined constant",
-      "scope": ["constant.character", "constant.other"],
+      "scope": [
+        "constant.character",
+        "constant.other"
+      ],
       "settings": {
         "foreground": "#FF80F4"
       }
@@ -174,7 +214,10 @@
     },
     {
       "name": "PHP Namespaces",
-      "scope": ["support.other.namespace", "entity.name.type.namespace"],
+      "scope": [
+        "support.other.namespace",
+        "entity.name.type.namespace"
+      ],
       "settings": {
         "foreground": "#FFB2F9"
       }
@@ -213,7 +256,10 @@
     },
     {
       "name": "Twig Tagbraces",
-      "scope": ["meta.tag.template.value.twig", "meta.tag.template.block.twig"],
+      "scope": [
+        "meta.tag.template.value.twig",
+        "meta.tag.template.block.twig"
+      ],
       "settings": {
         "foreground": "#CD5AC5"
       }
@@ -291,7 +337,10 @@
     },
     {
       "name": "diff: header",
-      "scope": ["meta.diff", "meta.diff.header"],
+      "scope": [
+        "meta.diff",
+        "meta.diff.header"
+      ],
       "settings": {
         "fontStyle": "bold",
         "foreground": "#E0EDDD"
@@ -322,7 +371,10 @@
     },
     {
       "name": "diff: range",
-      "scope": ["meta.diff", "meta.diff.range"],
+      "scope": [
+        "meta.diff",
+        "meta.diff.range"
+      ],
       "settings": {
         "foreground": "#3bc0f0"
       }
@@ -381,7 +433,10 @@
     },
     {
       "name": "Markdown: Block and Inline Block",
-      "scope": ["markup.raw.block.markdown", "markup.raw.inline.markdown"],
+      "scope": [
+        "markup.raw.block.markdown",
+        "markup.raw.inline.markdown"
+      ],
       "settings": {
         "foreground": "#FFEE99"
       }
@@ -405,7 +460,10 @@
     },
     {
       "name": "Markdown: Link and Reference URL",
-      "scope": ["meta.image.inline.markdown", "markup.underline.link.markdown"],
+      "scope": [
+        "meta.image.inline.markdown",
+        "markup.underline.link.markdown"
+      ],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#8C8C8C"
@@ -493,14 +551,20 @@
     },
     {
       "name": "String Template",
-      "scope": ["string.template", "punctuation.definition.string.template"],
+      "scope": [
+        "string.template",
+        "punctuation.definition.string.template"
+      ],
       "settings": {
         "foreground": "#FFEE99"
       }
     },
     {
       "name": "[JS] Meta",
-      "scope": ["source.js meta", "source.ts meta"],
+      "scope": [
+        "source.js meta",
+        "source.ts meta"
+      ],
       "settings": {
         "foreground": "#d7d2ff" //"#afb7ff"
       }
@@ -529,14 +593,20 @@
     },
     {
       "name": "[CSS] - Variable",
-      "scope": ["source.css variable", "source.stylus variable"],
+      "scope": [
+        "source.css variable",
+        "source.stylus variable"
+      ],
       "settings": {
         "foreground": "#FD971F"
       }
     },
     {
       "name": "[CSS] - Support",
-      "scope": ["source.css support", "source.stylus support"],
+      "scope": [
+        "source.css support",
+        "source.stylus support"
+      ],
       "settings": {
         "foreground": "#66D9EF"
       }
