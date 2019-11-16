@@ -1,3 +1,6 @@
+## [v2.0.1]
+- Bugfix
+
 ## [v2.0.0]
 - Full new editor colors
   

@@ -8,8 +8,6 @@ I recommend to use it in conjunction with [Bracket Pair Colorizer][4] for best r
 
 ## ScreenShots
 
-### Javascript
-
 ![ScreenShot](https://raw.githubusercontent.com/BraisC/Kinda-Monokai-Dark/master/static/screenshotJS.PNG)
 
 ## License
