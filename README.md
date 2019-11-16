@@ -10,8 +10,7 @@ I recommend to use it in conjunction with [Bracket Pair Colorizer][4] for best r
 
 ### Javascript
 
-![ScreenShot](https://raw.githubusercontent.com/BraisC/Kinda-Monokai-Dark/master/static/screenshot.PNG)
-
+![ScreenShot](https://raw.githubusercontent.com/BraisC/Kinda-Monokai-Dark/master/static/screenshotJS.PNG)
 
 ## License
 
