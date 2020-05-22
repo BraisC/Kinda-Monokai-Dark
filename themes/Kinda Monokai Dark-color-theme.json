@@ -1,6 +1,23 @@
 {
   "name": "Kinda Monokai Dark",
   "type": "dark",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    /* "variable.readonly.local": {
+        "underline": true
+      }, */
+    "interface": {
+      "italic": true
+    },
+    "type": {
+      "foreground": "#1ae177",
+      "italic": true
+    },
+    "variable.readonly.defaultLibrary": {
+      "foreground": "#1ae177",
+      "underline": false
+    }
+  },
   "colors": {
     //ACTIVITY BAR
     "activityBar.background": "#0f0f0f",
@@ -220,6 +237,25 @@
       ],
       "settings": {
         "foreground": "#FFB2F9"
+      }
+    },
+    {
+      "name": "Type Alias",
+      "scope": [
+        "entity.name.type.alias"
+      ],
+      "settings": {
+        "fontStyle": "italic underline",
+        "foreground": "#1ae177"
+      }
+    },
+    {
+      "name": "Interface",
+      "scope": [
+        "entity.name.type.interface"
+      ],
+      "settings": {
+        "fontStyle": "italic underline"
       }
     },
     {
