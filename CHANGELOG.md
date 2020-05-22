@@ -1,3 +1,6 @@
+## [v2.1.1]
+- Minor fixes
+  
 ## [v2.1.0]
 - Added support to semantic highlighting
   
