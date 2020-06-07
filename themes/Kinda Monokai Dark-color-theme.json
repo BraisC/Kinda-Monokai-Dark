@@ -34,7 +34,7 @@
     "editor.lineHighlightBackground": "#3D3D3D55",
     "editorRuler.foreground": "#444444",
     "editorWidget.background": "#3c3c3c",
-
+    "terminal.background": "#000000",
     "focusBorder": "#4b4b4b",
 
     //LIST

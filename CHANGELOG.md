@@ -1,3 +1,6 @@
+## [v2.1.2]
+- Terminal background is now black
+
 ## [v2.1.1]
 - Minor fixes
   
