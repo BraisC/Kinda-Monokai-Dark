@@ -1,3 +1,6 @@
+## [v2.1.3]
+- Removed underline from active tab
+  
 ## [v2.1.2]
 - Terminal background is now black
 

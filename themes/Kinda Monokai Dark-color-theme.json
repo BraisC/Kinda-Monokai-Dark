@@ -75,7 +75,7 @@
     "statusBar.background": "#0f0f0f",
     //TABS
     "tab.activeModifiedBorder": "#fff",
-    "tab.activeBorder": "#6d6d6d",
+    "tab.activeBorder": "#1f1f1f",
 
     "titleBar.activeBackground": "#111111"
   },
