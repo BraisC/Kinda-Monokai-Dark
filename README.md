@@ -1,4 +1,7 @@
 # Kinda Monokai Dark
+![](https://img.shields.io/visual-studio-marketplace/v/BraisC.kinda-monokai-dark?style=flat-square)
+![](https://img.shields.io/visual-studio-marketplace/d/BraisC.kinda-monokai-dark?logo=visual-studio&logoColor=blue&style=flat-square)
+![](https://img.shields.io/github/last-commit/braisc/kinda-monokai-dark?logo=github&style=flat-square)
 
 A [VS Code][1] theme based on Monokai by [Wimer Hazenberg][3].
 
