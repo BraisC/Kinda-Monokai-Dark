@@ -1,4 +1,4 @@
-# Kinda Monokai Dark
+# [Kinda Monokai Dark](https://marketplace.visualstudio.com/items?itemName=BraisC.kinda-monokai-dark)
 ![](https://img.shields.io/visual-studio-marketplace/v/BraisC.kinda-monokai-dark?style=flat-square)
 ![](https://img.shields.io/visual-studio-marketplace/d/BraisC.kinda-monokai-dark?logo=visual-studio&logoColor=blue&style=flat-square)
 ![](https://img.shields.io/github/last-commit/braisc/kinda-monokai-dark?logo=github&style=flat-square)
@@ -11,7 +11,7 @@ I recommend to use it in conjunction with [Bracket Pair Colorizer][4] for best r
 
 ## ScreenShots
 
-![ScreenShot](https://raw.githubusercontent.com/BraisC/Kinda-Monokai-Dark/master/static/screenshotJS.PNG)
+[![ScreenShot](https://raw.githubusercontent.com/BraisC/Kinda-Monokai-Dark/master/static/screenshotJS.PNG)](https://marketplace.visualstudio.com/items?itemName=BraisC.kinda-monokai-dark)
 
 ## License
 
