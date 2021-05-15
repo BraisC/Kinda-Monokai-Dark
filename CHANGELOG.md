@@ -1,3 +1,6 @@
+## [v2.2.0]
+- Added syntax highlight for valid properties
+  
 ## [v2.1.3]
 - Removed underline from active tab
   

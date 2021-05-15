@@ -16,7 +16,11 @@
     "variable.readonly.defaultLibrary": {
       "foreground": "#1ae177",
       "underline": false
-    }
+    },
+    "variable.readonly": {
+      "foreground": "#e9e9e9"
+    },
+    "property": "#cc99ff"
   },
   "colors": {
     //ACTIVITY BAR
@@ -237,6 +241,13 @@
       ],
       "settings": {
         "foreground": "#FFB2F9"
+      }
+    },
+    {
+      "name": "VariableOther",
+      "scope": "support.type.object.module",
+      "settings": {
+        "foreground": "#1ae177"
       }
     },
     {
@@ -544,15 +555,7 @@
       "name": "Function Call Variable",
       "scope": "variable.other.property",
       "settings": {
-        "foreground": "#cc99ff"
-      }
-    },
-    {
-      "name": "Support Variable Property DOM",
-      "scope": "support.variable.property.dom",
-      "settings": {
-        "foreground": "#cc99ff", //#afb7ff
-        "fontStyle": ""
+        "foreground": "#ffffff"
       }
     },
     {
