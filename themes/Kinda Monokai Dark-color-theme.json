@@ -151,6 +151,13 @@
       }
     },
     {
+      "name": "Typescript object property",
+      "scope": "variable.other.property.ts",
+      "settings": {
+        "foreground": "#cc99ff"
+      }
+    },
+    {
       "name": "Class name",
       "scope": "entity.name.class, entity.name.type",
       "settings": {

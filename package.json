@@ -2,7 +2,7 @@
   "name": "kinda-monokai-dark",
   "displayName": "Kinda Monokai Dark",
   "description": "A custom theme based on Monokai Dark with brighter font colors and darker backgrounds",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "publisher": "BraisC",
   "engines": {
     "vscode": "^1.39.0"

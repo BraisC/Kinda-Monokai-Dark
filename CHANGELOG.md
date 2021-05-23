@@ -1,3 +1,6 @@
+## [v2.2.1]
+- Fix TS Record type property color
+
 ## [v2.2.0]
 - Added syntax highlight for valid properties
   
